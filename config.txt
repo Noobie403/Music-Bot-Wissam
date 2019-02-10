@@ -1,0 +1,6 @@
+owner=503505568477085697
+prefix=w
+game=type hplay
+stayinchannel=true
+songinstatus=false
+token=NTQ0MTQ1MzQzOTY1NjkxOTA2.D0G3kg.LjPXBTSLkwt37Qorf9uizMXTc-Y
